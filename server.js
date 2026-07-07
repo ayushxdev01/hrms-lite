@@ -25,7 +25,8 @@ app.use('/api/attendance', attendanceRoutes);
 // New author endpoint
 app.get('/api/author', (req, res) => {
   res.json({
-    author: 'Ayush_gp',
+    author: 'Ayush Gupta',
+    github: 'https://github.com/ayushxdev01',
     project: 'HRMS Lite',
     description: 'A lightweight HRMS for employee and attendance management.'
   });
@@ -45,7 +46,7 @@ app.use((err, req, res, next) => {
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
-  console.log('Developed by Ayush_gp'); // Author credit in console
+  console.log('Developed by ayushxdev01'); // Author credit in console
 });
 
 // Developed by Ayush Gupta

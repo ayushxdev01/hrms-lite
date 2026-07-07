@@ -35,7 +35,7 @@ function App() {
       </div>
       {/* Footer with author credit */}
       <footer className="mt-10 py-4 text-center text-gray-500 text-sm border-t border-gray-200">
-        Developed by <a href="https://github.com/ayush201456" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 font-medium">Ayush Gupta</a> | HRMS Lite © 2026
+        Developed by <a href="https://github.com/ayushxdev01" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 font-medium">Ayush Gupta</a> | HRMS Lite © 2026
       </footer>
     </div>
   );

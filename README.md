@@ -1,6 +1,6 @@
 # HRMS Lite
 
-A lightweight full-stack HR management app for employee records and attendance tracking. Built with React, Node.js, and MongoDB.
+A lightweight full-stack HR management app for employee records and attendance tracking. Built with React, Node.js, Express, and MongoDB.
 
 ## 🚀 Features
 - **Employee Management**: Add, view, and delete employees with auto-generated IDs.
@@ -16,7 +16,7 @@ A lightweight full-stack HR management app for employee records and attendance t
 - **Deployment**: Render
 
 ## 📋 Local Setup
-1. Clone: `git clone https://github.com/ayush201456/hrms-lite.git`
+1. Clone: `git clone https://github.com/ayushxdev01/hrms-lite.git`
 2. Install: `npm install` (root) and `cd client && npm install`
 3. Env: Create `.env` with `MONGO_URI=your_mongodb_atlas_string`
 4. Run: `npm run dev` (server: port 5000, client: port 5173)
@@ -32,9 +32,4 @@ A lightweight full-stack HR management app for employee records and attendance t
 - No advanced HR features (e.g., payroll).
 
 ## 👨‍💻 Author
-Developed by Ayush Gupta. [GitHub](https://github.com/ayush201456)
-
----
-3. The repo will update automatically.
-
-This README is now complete with your live URL. If you need further edits (e.g., add screenshots or change text), let me know! 🚀 Your project is ready for submission.
+Developed by Ayush Gupta. [GitHub](https://github.com/ayushxdev01)
